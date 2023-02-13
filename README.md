@@ -1,4 +1,4 @@
-### Hey 👋 I'm Rupali...😄
+### Hey there 👋 I'm Rupali...😄
 
 <!--
 **Rupalihirdekar/Rupalihirdekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
